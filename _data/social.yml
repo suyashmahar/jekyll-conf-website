@@ -1,0 +1,14 @@
+- name: CASA Google Group
+  link: https://groups.google.com/g/comparchsa 
+  icon: fa-google
+  active: true
+
+- name: CASA Twitter Channel
+  link: https://twitter.com/CompArchSA
+  icon: fa-twitter
+  active: true
+
+- name: CASA Web Site
+  link: http://www.comparchsa.org
+  icon: fa-home
+  active: true
