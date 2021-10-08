@@ -4,7 +4,7 @@ layout: default
 
 # Computer-Architecture Long-term Mentoring (CALM)
 
-The CALM Committee within CASA is starting a global initiative to pair mentors
+The CALM Committee within [CASA](http://www.comparchsa.org) is starting a global initiative to pair mentors
 with mentees in the greater computer-architecture community for long-term, e.g.
 1 year, mentoring relationships.
 
