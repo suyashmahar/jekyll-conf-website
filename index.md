@@ -76,7 +76,8 @@ grad students, postdocs, professors, industry researchers or professionals in
 computer architecture.
 
 # CALM Committee
-
+|---------------|----------|
+|---------------|----------|
 | Sihang Liu    | Co-Chair |
 | Emily Ruppel  | Co-Chair |
 |---------------|----------|
