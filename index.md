@@ -2,44 +2,103 @@
 layout: default
 ---
 
-# What is the ArchChat Social Hour?
+# Computer-Architecture Long-term Mentoring (CALM)
 
-The ArchChat Social Hour is a fully-virtual monthly social event organized jointly by [CASA](http://www.comparchsa.org) and [PLTea](http://pltea.github.io). 
-PLTea is a similar initiative within the PL (programming languages) community and has graciously offered to help establish our own series within computer architecture.
+The CALM Committee within CASA is starting a global initiative to pair mentors
+with mentees in the greater computer-architecture community for long-term, e.g.
+1 year, mentoring relationships.
 
-We plan to meet monthly, virtually via Zoom where attendees will randomly break into small social rooms (3-4 people apiece) so we can chat about 
-school, work, or whatever comes to mind. 
+Research shows that mentoring is important to the career development of
+individuals and the health of a research community, but it also indicates that
+mentoring relationships take time to develop.
 
+In the CALM program, Mentors and mentees will meet over the course of the year
+to get to know and learn from each other.
 
-# Who can join in?
+To improve mentor-mentee matching and to help focus mentoring discussions,
+mentor-mentee pairings will be sorted into two tracks: research and development.
 
-While the ArchChat Social Hour is geared towards students in computer architecture, all are welcome to join!
-Those in adjacent research areas to computer architecture are also welcome.
+The research track is designed to match mentees without academic advisors with
+members of the community to discuss technical topics and provide a window into
+research in computer architecture.
 
-Note that ArchChat Social Hour is inherently informal and is a chance to chat with fellow computer architecture 
-researchers, do know it is still a professional event and everyone is expected to abide with [CARES][cares] policies.
+The development track is intended for discussions that center on career or
+personal development, ranging from job hunting to advice on
+navigating the research community as a member of an underrepresented group.
 
-# How do I join?
+If you are interested in participating as a mentor or mentee please
+complete the interest forms below and we will get back to you as soon as we can.
 
-Each ArchChat Social Hour instantiation will have its own Zoom Registration Link. Register via the link(s) below. If you are signed up to the 
-CASA mailing list and/or participate in our Slack workspace, we will also share up-to-date information there. If you are not, 
-be sure to [sign up][signup] to stay in touch. Chat with you soon!
-
-# Upcoming Event
-
-| When                         | RSVP Link        |
-|------------------------------|------------------|
-| June 25th 2021, 11 AM ET     | [RSVP Link][rsvp]|
-
-# Previous Events
-
-| When                           | Participants |
-|--------------------------------|--------------|
-| May 21st 2021, 11 AM ET        |      25      |
-| February 26th 2021, 11AM ET    |      40      |
-| January 14th 2021, 3PM ET      |      37      |
+Please note, at this phase we are gauging interest from the community, we are
+not matching mentors and mentees just yet.  Our hope is to match a small initial
+cohort of mentees by the beginning of 2022 before scaling up the program.
 
 
-[signup]: https://www.comparchsa.org/join/ 
-[cares]: https://www.sigarch.org/benefit/cares/
-[rsvp]:  https://tamu.zoom.us/meeting/register/tJEkf-Cuqz8tHNMB4jIfvomaWRs2W_kS7R0F
+# CALM Kick-Off
+
+To learn more about long term mentoring and the CALM Pilot Program please join
+us (virtually) at the CALM Kick-Off Event during MICRO.  The event will feature
+panelists from industry and academia discussing their views on mentoring and what
+makes a successful mentoring relationship.  The CALM Committee will also take
+questions about the program, so please submit any questions here.
+
+To accommodate more time zones, the event will have two sessions:
+
+| When                                     | Link             |
+|------------------------------------------|------------------|
+| Wednesday, October 20, 4:15-5:15pm (ET)  |                  |
+|   Panelists:                             |                  |
+|   Panelists:                             |                  |
+|   Panelists:                             |                  |
+|------------------------------------------|------------------|
+| Friday, October 22, 9:00-10:00am (ET)    |                  |
+|   Panelists:                             |                  |
+|   Panelists:                             |                  |
+|   Panelists:                             |                  |
+
+
+# Participating as a Mentee
+
+Please complete this form to get involved as mentee.  Again, we will not be
+matching a large number of mentees initially, but the CALM committee will keep
+in touch.
+
+# Participating as a Mentor
+
+Please complete this form to get involved as a mentor.  CALM mentors can be
+grad students, postdocs, professors, industry researchers or professionals in
+computer architecture.
+
+# Participating as a Mentor
+
+Please complete this form to get involved as a mentor.  CALM mentors can be
+grad students, postdocs, professors, industry researchers or professionals in
+computer architecture.
+
+# CALM Committee
+
+| Sihang Liu    | Co-Chair |
+| Emily Ruppel  | Co-Chair |
+|---------------|----------|
+
+We are currently seeking CALM Committee members to help with the day-to-day
+tasks of running a successful long-term mentoring program.  If you can commit
+1-2 hours a week to a position that involves communicating with a wide swath of
+members of the computer architecture community, please contact the chairs.
+
+
+# CALM Advisory Committee
+
+CALM relies on a network of senior researchers who know the people of the
+computer architecture community and can provide sage advice on mentor-mentee
+pairings.  If you, or a social colleague you know, would be available to respond
+to emails several times a month to help match mentors and mentees, please
+contact the chairs.
+
+
+# Acknowledgements
+
+Special thanks to Talia Ringer and the folks at Sigplan-M for sharing their
+experience establishing a long-term mentoring program.
+
+
