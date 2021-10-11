@@ -1,6 +1,16 @@
 @import "fonts";
 @import "rouge-github";
 
+
+.navigation-bar {
+  padding-left: 20%;
+  font-size: 1.5em;
+}
+
+.navigation-bar-content {
+	padding-left: 2%;
+}
+
 body {
   background-color: #fff;
   padding:10%;
@@ -248,6 +258,11 @@ footer {
   header {
     padding:0;
   }
+
+	.navigation-bar {
+		padding-left: 0%;
+		font-size: 1.4em;
+	}
 
   header ul, header p.view {
     position:static;

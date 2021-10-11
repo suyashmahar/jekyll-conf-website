@@ -25,6 +25,15 @@
   </head>
   <body>
     <div class="wrapper">
+      <div class="navigation-bar">
+	<hr>
+	<div class="navigation-bar-content">
+	  <p>
+	    <a href="index.html">Home</a> | <a href="panelist.html">Panelist</a> | <a href="program.html">Program</a>
+	  </p>
+	</div>
+	<hr>
+      </div>
       <header>
 
         {% if site.logo %}
@@ -56,7 +65,8 @@
 
       <section>
 
-      {{ content }}
+
+	{{ content }}
 
       </section>
       <!-- <footer>
