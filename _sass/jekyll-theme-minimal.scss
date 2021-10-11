@@ -3,10 +3,28 @@
 
 body {
   background-color: #fff;
-  padding:50px;
+  padding:10%;
+  padding-right: 20%;
+  padding-left: 20%;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
+  display: flex;
+}
+
+header {
+  width:10%;
+  padding-left: 0%;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.wrapper {
+  width:100em;
+  margin-right: 0%;
+  margin-left: 0%;
+  text-align: left !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -41,7 +59,7 @@ a {
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+  text-shadow: 0 0 0.01px;
 }
 
 a small {
@@ -55,10 +73,6 @@ a:hover small {
   color:#777;
 }
 
-.wrapper {
-  width:860px;
-  margin:0 auto;
-}
 
 blockquote {
   border-left:1px solid #e5e5e5;
@@ -102,13 +116,6 @@ th {
 
 img {
   max-width:100%;
-}
-
-header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 ul.downloads {
@@ -172,7 +179,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:80%;
   float:right;
   padding-bottom:50px;
 }
@@ -210,7 +217,9 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    padding: 0%;
+    padding-left: 20%;
+    padding-right: 20%;
   }
 
   section {
@@ -250,6 +259,11 @@ footer {
 }
 
 @media print, screen and (max-width: 480px) {
+  header {
+    padding-left: 10%;
+    padding-right: 10%; 
+  }
+  
   body {
     padding:15px;
   }

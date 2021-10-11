@@ -33,17 +33,18 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+        <!-- {% if site.github.is_project_page %} -->
+        <!-- <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p> -->
+        <!-- {% endif %} -->
 
-        <h2 class="join-title">Join</h2>
+	<hr>
+        <h2 class="join-title">Join us</h2>
 
         <div class="join-gallery">
             {% for medium in site.data.social %}
             {% if medium.active == true %}
             <a href="{{ medium.link }}" title="{{ medium.name }}">
-                <i class="fa fa-3x {{ medium.icon }}"></i>
+                <i class="fa fa-3x {{ medium.icon }}" style="color: #{{ medium.color}};"></i>
             </a>
             {% endif %}
             {% endfor %}

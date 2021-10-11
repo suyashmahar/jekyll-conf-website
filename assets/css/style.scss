@@ -5,10 +5,13 @@
 
 .join-title {
     text-align: center;
+    font-size: 1.2em;
 }
 
 .join-gallery {
     margin-bottom: 10px;
+    text-align: center;
+    font-size: 1em;
 }
 
 
@@ -17,9 +20,10 @@
     display: -moz-inline-box;
     *display: inline; /* For IE7 */
     zoom: 1; /* Trigger hasLayout */
-    width: 32%;
     text-align: center;
+    padding: 0.2em;
     color: #000000;
+    margin: 0 auto;
 }
 
 ul.organizer-gallery  {
@@ -37,8 +41,6 @@ section {
     text-align: justify;
 }
 
-
-
 section > table > tbody > tr:first-child >  td:first-child {
     color:#800000;
     font-weight:bold;
@@ -46,4 +48,12 @@ section > table > tbody > tr:first-child >  td:first-child {
 
 .organizer-title {
     text-align: center;
+}
+
+.fa-google {
+  background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
 }

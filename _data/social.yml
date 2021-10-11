@@ -2,13 +2,15 @@
   link: https://groups.google.com/g/comparchsa 
   icon: fa-google
   active: true
+  color: 1DA1F2
 
 - name: CASA Twitter Channel
   link: https://twitter.com/CompArchSA
   icon: fa-twitter
   active: true
+  color: 1DA1F2
 
-- name: CASA Web Site
-  link: http://www.comparchsa.org
-  icon: fa-home
-  active: true
+# - name: CASA Web Site
+  # link: http://www.comparchsa.org
+  # icon: fa-home
+  # active: true

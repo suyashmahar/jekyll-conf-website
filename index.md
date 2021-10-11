@@ -76,11 +76,12 @@ grad students, postdocs, professors, industry researchers or professionals in
 computer architecture.
 
 # CALM Committee
-|---------------|----------|
-|---------------|----------|
+
+
+|               |          |
 | Sihang Liu    | Co-Chair |
 | Emily Ruppel  | Co-Chair |
-|---------------|----------|
+
 
 We are currently seeking CALM Committee members to help with the day-to-day
 tasks of running a successful long-term mentoring program.  If you can commit
