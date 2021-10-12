@@ -272,13 +272,8 @@ researchers or professionals in computer architecture.
 
 # CALM Committee
 
-* Elba Garza
-* Udit Gupta
-* Yueying Li
-* Suyash Mahar
-* Abdulrahman Mahmoud
-* Gururaj Saileshwar
-* Annus Zulfiqar
+* Committee members: Elba Garza, Udit Gupta, Yueying Li, Suyash Mahar, Abdulrahman Mahmoud, Gururaj Saileshwar, and Annus Zulfiqar
+* Co-chairs: Sihang Liu and Emily Ruppel
 
 
 We are currently seeking CALM Committee members to help with the day-to-day
@@ -287,13 +282,13 @@ tasks of running a successful long-term mentoring program.  If you can commit
 members of the computer architecture community, please contact the chairs.
 
 
-# CALM Advisory Committee
+<!-- # CALM Advisory Committee
 
 CALM relies on a network of senior researchers who know the people of the
 computer architecture community and can provide sage advice on mentor-mentee
 pairings.  If you, or a social colleague you know, would be available to respond
 to emails several times a month to help match mentors and mentees, please
-contact the chairs.
+contact the chairs. -->
 
 
 # Acknowledgements
