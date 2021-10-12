@@ -266,18 +266,18 @@ but the CALM committee will keep in touch.
 
 ## Participating as a Mentor
 
-Please complete this form to get involved as a mentor.  CALM mentors can be
-grad students, postdocs, professors, industry researchers or professionals in
-computer architecture.
+Please complete [this form](https://forms.gle/tv513GtU2T81fY3g6) to get involved
+as a mentor.  CALM mentors can be grad students, postdocs, professors, industry
+researchers or professionals in computer architecture.
 
 # CALM Committee
 
 * Elba Garza
-* Gururaj Saileshwar
-* Yueying Li
-* Abdulrahman Mahmoud
 * Udit Gupta
+* Yueying Li
 * Suyash Mahar
+* Abdulrahman Mahmoud
+* Gururaj Saileshwar
 * Annus Zulfiqar
 
 
