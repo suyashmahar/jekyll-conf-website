@@ -221,7 +221,7 @@ mentoring program in computer architecture.
 <hr>
 <br>
 
-# Introductory Speaker
+## Introductory Speaker
 
 <div class="bio">
 <img class="headshot" src="/assets/img/ruppel.jpg" alt="Emily Ruppel's Potrait"/> 
@@ -231,7 +231,7 @@ mentoring program in computer architecture.
 
 <br>
 
-# Moderator
+## Moderator
 
 <div class="bio">
 <img class="headshot" src="/assets/img/liu.png" alt="Sihang Liu's Potrait"/> 
