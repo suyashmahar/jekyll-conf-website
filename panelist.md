@@ -4,7 +4,7 @@ layout: default
 
 
 
-# Panelist
+# Panelists
 ### Session 1
 
 **Alexandros Daglis**  
@@ -31,7 +31,21 @@ Assistant Professor, University of Illinois at Urbana-Champaign
 Assistant Professor, Cornell University
 
 **Gururaj Saileshwar**  
-Graduating Ph.D., Georgia Tech
+Graduating Ph.D. Student, Georgia Tech
 
 **Mengjia Yan**  
 Assistant Professor, MIT
+
+
+# Moderators
+
+**Sihang Liu**
+Graduating Ph.D. Student, University of Virginia
+
+
+**Emily Ruppel**
+Graduating Ph.D. Student, Carnegie Mellon University
+
+
+
+
