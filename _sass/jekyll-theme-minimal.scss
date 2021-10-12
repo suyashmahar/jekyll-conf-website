@@ -14,7 +14,6 @@
 body {
   background-color: #fff;
   padding:5%;
-	// padding-top: 200%
   padding-right: 20%;
   padding-left: 20%;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -35,7 +34,7 @@ header {
   width:100em;
   margin-right: 0%;
   margin-left: 0%;
-  text-align: left !important;
+  text-align: justify !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -129,6 +128,13 @@ img {
   max-width:100%;
 }
 
+.headshot {
+    width: 10em;
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
@@ -216,6 +222,13 @@ footer {
 
 @media print, screen and (max-width: 960px) {
 
+  body {
+    word-wrap:break-word;
+    padding-right: 10%;
+    padding-left: 10%;
+  }
+
+  
   div.wrapper {
     width:auto;
     margin:0;
@@ -260,10 +273,10 @@ footer {
     padding:0;
   }
 
-	.navigation-bar {
-		padding-left: 0%;
-		font-size: 1.4em;
-	}
+  .navigation-bar {
+    padding-left: 0%;
+    font-size: 1.4em;
+  }
 
   header ul, header p.view {
     position:static;
@@ -290,6 +303,15 @@ footer {
 
   .downloads li, .downloads li + li + li {
     width:33%;
+  }
+
+  .headshot {
+      float: none;
+      display: block;
+      vertical-align: middle;
+      margin: auto;
+      padding-top: 1em;
+      padding-bottom: 1em;
   }
 }
 
