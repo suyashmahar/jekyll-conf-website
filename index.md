@@ -41,8 +41,8 @@ questions about the program, so please submit any questions here.
 To accommodate more time zones, the event will have two sessions:
 
 * When:
-  * **Session 1** <time>
-  * **Session 2** <time>
+  * **Session 1** Oct 20, 2021 (Wednesday) 4:15-5:15 PM ET
+  * **Session 2** Oct 22, 2021 (Friday) 9:00-10:00 AM ET
 * Agenda (same for each session):
   * Introduction to CALM (Emily Ruppel)
   * Panel (panelists ordered by last name)
