@@ -22,12 +22,24 @@ body {
   display: flex;
 }
 
+.pagebreak {
+  page-break-before: always;
+}
+
 header {
-  width:10%;
+  width: 10vw;
   padding-left: 0%;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+section {
+  width: 50vw;
+  float: right;
+  position: absolute;
+  padding-bottom:50px;
+  padding-left: 12vw;
 }
 
 .wrapper {
@@ -128,6 +140,10 @@ img {
   max-width:100%;
 }
 
+.bio {
+  overflow:auto; 
+}
+
 .headshot {
     width: 10em;
     float: left;
@@ -195,11 +211,6 @@ strong {
   color:#222;
 }
 
-section {
-  width:80%;
-  float:right;
-  padding-bottom:50px;
-}
 
 small {
   font-size:11px;
