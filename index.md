@@ -52,6 +52,8 @@ To accommodate more time zones, the event will have two sessions:
 	  Talia Ringer, Adrian Sampson, Gururaj Saileshwar, Mengjia Yan
     * Moderator: Sihang Liu
   * Q&A
+* Please RSVP using [this form](https://forms.gle/tzRVnAysKPtqSjs18) to indicate
+which session you plan to attend
 
 # Panelists
 
@@ -226,6 +228,13 @@ mentoring program in computer architecture.
 <div class="bio">
 <img class="headshot" src="/assets/img/ruppel.jpg" alt="Emily Ruppel's Potrait"/> 
 <b>Emily Ruppel</b> | Ph.D. Student, Carnegie Mellon University<br>
+
+Emily Ruppel is a final-year Ph.D. student at Carnegie Mellon University advised
+by Brandon Lucia.  She researches and builds batteryless, energy harvesting
+systems that perform perform computationally intensive tasks despite frequent
+power failures.  Her recent work examines runtime software and programming
+models that allow batteryless devices to correctly interact with their physical
+environment.  She is currently serving as co-chair of the CALM committee 
 
 </div>
 
