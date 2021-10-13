@@ -62,7 +62,7 @@ To accommodate more time zones, the event will have two sessions:
 <div class="bio">
 <img class="headshot" src="/assets/img/daglis.png" alt="Alexandros Daglis's Potrait"/> 
 
-<b>Alexandros Daglis</b> | Assistant Professor, Georgia Tech<br>
+<a href="https://www.cc.gatech.edu/~adaglis3/">Alexandros Daglis | Assistant Professor, Georgia Tech</a><br>
 
 Alexandros (Alex) Daglis is an Assistant Professor of Computer Science
 at Georgia Tech. His research interests lie in the intersection of
@@ -79,7 +79,7 @@ and the Young Architect (YArch) workshop in 2020 and 2021.
 
 <div class="bio">
 <img class="headshot" src="/assets/img/olson.jpg" alt="Lena Olson's Potrait"/> 
-<b>Lena Olson</b> | Software Engineer, Google<br>
+<a href="https://www.linkedin.com/in/lena-olson-26477b91">Lena Olson | Software Engineer, Google</a><br>
 Lena Olson works at Google on SNAP, a userspace networking stack. She
 received a PhD in 2016 from the University of Wisconsin-Madison, where
 her research focused on safely integrating third-party accelerators
@@ -100,7 +100,7 @@ elsewhere.
 <div class="bio">
 <img class="headshot" src="/assets/img/shahbaz.jpg" alt="Muhammad Shahbaz's Potrait"/> 
 
-<b>Muhammad Shahbaz</b> | Assistant Professor, Purdue University<br>
+<a href="https://www.cs.purdue.edu/people/faculty/mshahbaz">Muhammad Shahbaz | Assistant Professor, Purdue University</a><br>
 Muhammad Shahbaz is a Kevin C. and Suzanne L. Kahn New Frontiers
 Assistant Professor in Computer Science at Purdue University. His
 research focuses on the design and development of domain-specific
@@ -125,8 +125,8 @@ Assistant Award.
 <div class="bio">
 <img class="headshot" src="/assets/img/sriraman.jpg" alt="Akshitha Sriraman's Potrait"/> 
 
-<b>Akshitha Sriraman</b> | Visiting Researcher, Google.  <br>
-Assistant Professor, Carnegie Mellon University (2022)
+<a href="https://akshithasriraman.eecs.umich.edu">Akshitha Sriraman | Visiting Researcher, Google.</a><br>
+Assistant Professor, Carnegie Mellon University (2022)<br>
 
 Akshitha Sriraman is a Visiting Researcher at Google in the Systems
 Research Group. She will start as an Assistant Professor in Electrical
@@ -154,11 +154,11 @@ program, YArch workshop, and JOBS workshop.
 <hr>
 <br>
 
-<div class="bio">
+<!-- <div class="bio">
 <img class="headshot" src="/assets/img/swanson.jpg" alt="Steven Swanson's Potrait"/> 
 <b>Steven Swanson</b> | Professor, UC San Diego<br>
 
-</div>
+</div> -->
 
 <br>
 
@@ -167,7 +167,7 @@ program, YArch workshop, and JOBS workshop.
 ## Session 2
 <div class="bio">
 <img class="headshot" src="/assets/img/ringer.jpeg" alt="Talia Ringer's Potrait"/> 
-<b>Talia Ringer</b> | Assistant Professor, University of Illinois at Urbana-Champaign<br>
+<a href="https://cs.illinois.edu/about/people/department-faculty/tringer">Talia Ringer | Assistant Professor, University of Illinois at Urbana-Champaign</a><br>
 
 Talia Ringer is an Assistant Professor at the University of Illinois
 at Urbana-Champaign, where she builds technologies that make it easier
@@ -185,7 +185,7 @@ mentoring experience, and continues to mentor through SIGPLAN-M.
 <div class="bio">
 
 <img class="headshot" src="/assets/img/sampson.png" alt="Adrian Sampson's Potrait"/> 
-<b>Adrian Sampson</b> | Assistant Professor, Cornell University<br>
+<a href="https://www.cs.cornell.edu/~asampson/">Adrian Sampson | Assistant Professor, Cornell University</a><br>
 
 Adrian Sampson is an assistant professor in the computer science
 department at Cornell. He works on programming languages, computer
@@ -207,7 +207,7 @@ YArch’s program committee three times.
 <div class="bio">
 
 <img class="headshot" src="/assets/img/saileshwar.jpg" alt="Gururaj Saileshwar's Potrait"/> 
-<b>Gururaj Saileshwar</b> | Ph.D. Student, Georgia Tech<br>
+<a href="https://sites.google.com/site/gururajshome/home">Gururaj Saileshwar | Ph.D. Student, Georgia Tech</a><br>
 
 Gururaj Saileshwar is a graduating Ph.D. student at Georgia Tech,
 Atlanta, USA, advised by Prof. Moinuddin Qureshi. His research is at
@@ -223,10 +223,10 @@ mentoring program in computer architecture.
 
 <hr><br>
 
-<div class="bio">
+<!-- <div class="bio">
 <img class="headshot" src="/assets/img/yan.jpg" alt="Mengjia Yan's Potrait"/> 
 <b>Mengjia Yan</b> | Assistant Professor, MIT<br>
-</div>
+</div> -->
 
 <hr>
 <br>
@@ -235,7 +235,7 @@ mentoring program in computer architecture.
 
 <div class="bio">
 <img class="headshot" src="/assets/img/ruppel.jpg" alt="Emily Ruppel's Potrait"/> 
-<b>Emily Ruppel</b> | Ph.D. Student, Carnegie Mellon University<br>
+<a href="https://users.ece.cmu.edu/~eruppel/">Emily Ruppel | Ph.D. Student, Carnegie Mellon University</a><br>
 
 Emily Ruppel is a final-year Ph.D. student at Carnegie Mellon University advised
 by Brandon Lucia.  She researches and builds batteryless, energy harvesting
@@ -252,7 +252,7 @@ environment.  She is currently serving as co-chair of the CALM committee
 
 <div class="bio">
 <img class="headshot" src="/assets/img/liu.png" alt="Sihang Liu's Potrait"/> 
-<b>Sihang Liu</b> | Ph.D. Student, University of Virginia<br>
+<a href="https://www.sihangliu.com/">Sihang Liu | Ph.D. Student, University of Virginia</a><br>
 
 Sihang Liu is a final-year Ph.D. student at the University of
 Virginia, working with Prof. Samira Khan. His research interest lies
@@ -308,7 +308,7 @@ to emails several times a month to help match mentors and mentees, please
 contact the chairs. -->
 
 
-# Acknowledgements
+# Acknowledge​ments
 
 Special thanks to Talia Ringer and the folks at Sigplan-M for sharing their
 experience establishing a long-term mentoring program.
