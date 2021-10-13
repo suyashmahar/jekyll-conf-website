@@ -260,7 +260,7 @@ Sihang Liu is a final-year Ph.D. student at the University of
 Virginia, working with Prof. Samira Khan. His research interest lies
 in computer systems and architecture. In particular, he is interested
 in software-hardware co-design for persistent memory, to make
-persistent memory systems, robust, efficient, and secured. He is also
+persistent memory systems robust, efficient, and secured. He is also
 broadly interested in other new and emerging systems, such as
 near-data processing and in-network processing.
 
