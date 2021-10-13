@@ -81,8 +81,18 @@ and the Young Architect (YArch) workshop in 2020 and 2021.
 
 <div class="bio">
 <img class="headshot" src="/assets/img/olson.jpg" alt="Lena Olson's Potrait"/> 
-
 <b>Lena Olson</b> | Software Engineer, Google<br>
+Lena Olson works at Google on SNAP, a userspace networking stack. She
+received a PhD in 2016 from the University of Wisconsin-Madison, where
+her research focused on safely integrating third-party accelerators
+into the host memory system. She has been involved in mentorship since
+grad school, where she mentored undergraduates and co-organized a
+departmental mentoring program, and continues today at Google,
+mentoring interns and junior teammates. She also was a co-founder of
+the Undergraduate Mentoring Workshop (uArch) at ISCA 2019, and was a
+co-organizer in 2020 and 2021. Lena has also benefited greatly from
+being mentored, and continues to rely on mentors at Google and
+elsewhere.
 
 </div>
 
