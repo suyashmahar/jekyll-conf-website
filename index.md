@@ -41,11 +41,11 @@ questions about the program, so please submit any questions here.
 To accommodate more time zones, the event will have two sessions:
 
 * When:
-  * **Session 1** <time>
-  * **Session 2** <time>
-* Agenda (same for each session):
-  * Introduction to CALM (Emily Ruppel)
-  * Panel (panelists ordered by last name)
+  * **Session 1** Oct 20, 2021 (Wednesday) 4:15-5:15 PM ET
+  * **Session 2** Oct 22, 2021 (Friday) 9:00-10:00 AM ET
+* Agenda *(same for each session)*:
+  * Introduction to CALM: Emily Ruppel
+  * Panel *(panelists ordered by last name)*
     * **Session 1**  
 	  Alexandros Daglis, Lena Olson, Muhammad Shahbaz, Akshitha Sriraman, Steven Swanson
     * **Session 2**  
@@ -282,13 +282,8 @@ researchers or professionals in computer architecture.
 
 # CALM Committee
 
-* Elba Garza
-* Udit Gupta
-* Yueying Li
-* Suyash Mahar
-* Abdulrahman Mahmoud
-* Gururaj Saileshwar
-* Annus Zulfiqar
+* Committee members: Elba Garza, Udit Gupta, Yueying Li, Suyash Mahar, Abdulrahman Mahmoud, Gururaj Saileshwar, and Annus Zulfiqar
+* Co-chairs: Sihang Liu and Emily Ruppel
 
 
 We are currently seeking CALM Committee members to help with the day-to-day
@@ -297,13 +292,13 @@ tasks of running a successful long-term mentoring program.  If you can commit
 members of the computer architecture community, please contact the chairs.
 
 
-# CALM Advisory Committee
+<!-- # CALM Advisory Committee
 
 CALM relies on a network of senior researchers who know the people of the
 computer architecture community and can provide sage advice on mentor-mentee
 pairings.  If you, or a social colleague you know, would be available to respond
 to emails several times a month to help match mentors and mentees, please
-contact the chairs.
+contact the chairs. -->
 
 
 # Acknowledgements
