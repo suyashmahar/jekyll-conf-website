@@ -101,22 +101,7 @@ elsewhere.
 <img class="headshot" src="/assets/img/shahbaz.jpg" alt="Muhammad Shahbaz's Potrait"/> 
 
 <a href="https://www.cs.purdue.edu/people/faculty/mshahbaz">Muhammad Shahbaz | Assistant Professor, Purdue University</a><br>
-Muhammad Shahbaz is a Kevin C. and Suzanne L. Kahn New Frontiers
-Assistant Professor in Computer Science at Purdue University. His
-research focuses on the design and development of domain-specific
-abstractions, compilers, and architectures for emerging workloads
-(including machine learning and self-driving networks). Shahbaz
-received his Ph.D. and M.A. in Computer Science from Princeton
-University and B.E. in Computer Engineering from the National
-University of Sciences and Technology (NUST). Before joining Purdue,
-Shahbaz worked as a postdoc at Stanford University and a Research
-Assistant at Georgia Tech and the University of Cambridge. Shahbaz has
-built open-source systems, including Pisces, SDX, and NetFPGA-10G,
-that are widely used in industry and academia. He received the
-Facebook Research Award, ACM SOSR Systems Award, APNet Best Paper
-Award, Internet2 Innovation Award, and Outstanding Graduate Teaching
-Assistant Award.
-
+Muhammad Shahbaz is a Kevin C. and Suzanne L. Kahn New Frontiers Assistant Professor in Computer Science at Purdue University. His research focuses on the design and development of domain-specific abstractions, compilers, and architectures for emerging workloads (including machine learning and self-driving networks). Shahbaz received his Ph.D. and M.A. in Computer Science from Princeton University and B.E. in Computer Engineering from the National University of Sciences and Technology (NUST). Before joining Purdue, Shahbaz worked as a postdoc at Stanford University and a Research Assistant at Georgia Tech and the University of Cambridge. Shahbaz has built open-source systems, including Pisces, SDX, and NetFPGA-10G, that are widely used in industry and academia. He received the Facebook Research Award, ACM SOSR Systems Award, APNet Best Paper Award, Internet2 Innovation Award, and Outstanding Graduate Teaching Assistant Award. Moreover, Shahbaz has mentored several graduate students both within the US and overseas, including Stanford University, LUMS, and NUST. As a postdoc, he has also mentored undergraduate students under Stanford’s CURIS research program.
 </div>
 
 <hr>
