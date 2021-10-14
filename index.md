@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Computer-Architecture Long-term Mentoring
+# Computer Architecture Long-term Mentoring
 
-The Computer-Architecture Long-term Mentoring (CALM) committee within
+The Computer Architecture Long-term Mentoring (CALM) committee within
 [CASA](http://www.comparchsa.org) is starting a global initiative to
-pair mentors with mentees in the greater computer-architecture
+pair mentors with mentees in the greater computer architecture
 community for long-term, e.g.  1 year, mentoring relationships.
 
 Research shows that mentoring is important to the career development of
@@ -40,18 +40,18 @@ questions about the program, so please submit any questions here.
 
 To accommodate more time zones, the event will have two sessions:
 
-* When:
-  * **Session 1** Oct 20, 2021 (Wednesday) 4:15-5:15 PM ET ([Zoom RSVP Link](https://tamu.zoom.us/meeting/register/tJcrc-CrrDwrE9W5iFc9cAh3C15r_nH5C8n1))
-  * **Session 2** Oct 22, 2021 (Friday) 9:00-10:00 AM ET ([Zoom RSVP Link](https://tamu.zoom.us/meeting/register/tJIpceispzkiE9fgJMIoXA0G-hsThijqdH7m))
-* Agenda *(same for each session)*:
+* **When**:
+  * **Session 1:** Oct 20, 2021 (Wednesday) 4:15-5:15 PM ET ([Zoom RSVP Link](https://tamu.zoom.us/meeting/register/tJcrc-CrrDwrE9W5iFc9cAh3C15r_nH5C8n1))
+  * **Session 2:** Oct 22, 2021 (Friday) 9:00-10:00 AM ET ([Zoom RSVP Link](https://tamu.zoom.us/meeting/register/tJIpceispzkiE9fgJMIoXA0G-hsThijqdH7m))
+* **Agenda** *(same for each session)*:
   * Introduction to CALM: Emily Ruppel
   * Panel *(panelists ordered by last name)*
-    * **Session 1**  
-	  Alexandros Daglis, Lena Olson, Muhammad Shahbaz, Akshitha Sriraman, Steven Swanson
-    * **Session 2**  
-	  Talia Ringer, Adrian Sampson, Gururaj Saileshwar, Mengjia Yan
+    * **Session 1:**  
+	  Alexandros Daglis, Lena Olson, Muhammad Shahbaz, Akshitha Sriraman, and Steven Swanson
+    * **Session 2:**  
+	  Talia Ringer, Adrian Sampson, Gururaj Saileshwar, and Mengjia Yan
     * Moderator: Sihang Liu
-  * Q&A
+  * Q&A (questions from the audience)
 
 # Panelists
 
@@ -289,8 +289,8 @@ researchers or professionals in computer architecture.
 
 # CALM Committee
 
-* Committee members: [Elba Garza](http://www.elbagarza.com/), [Udit Gupta](https://ugupta.com/), [Yueying Li](https://www.linkedin.com/in/%E6%82%A6%E9%A2%96-%E6%9D%8E-144479131/en), [Suyash Mahar](https://suyashmahar.com), [Abdulrahman Mahmoud](https://ma3mool.github.io/), [Gururaj Saileshwar](https://sites.google.com/site/gururajshome/home), and [Annus Zulfiqar](https://pk.linkedin.com/in/annuszulfiqar)
-* Co-chairs: [Sihang Liu](https://www.sihangliu.com/) and [Emily Ruppel](https://users.ece.cmu.edu/~eruppel/)
+* **Committee members**: [Elba Garza](http://www.elbagarza.com/), [Udit Gupta](https://ugupta.com/), [Yueying Li](https://www.linkedin.com/in/%E6%82%A6%E9%A2%96-%E6%9D%8E-144479131/en), [Suyash Mahar](https://suyashmahar.com), [Abdulrahman Mahmoud](https://ma3mool.github.io/), [Gururaj Saileshwar](https://sites.google.com/site/gururajshome/home), and [Annus Zulfiqar](https://pk.linkedin.com/in/annuszulfiqar)
+* **Co-chairs**: [Sihang Liu](https://www.sihangliu.com/) and [Emily Ruppel](https://users.ece.cmu.edu/~eruppel/)
 
 
 We are currently seeking CALM Committee members to help with the day-to-day
@@ -310,7 +310,7 @@ contact the chairs. -->
 
 # Acknowledge​ments
 
-Special thanks to Talia Ringer and the folks at Sigplan-M for sharing their
+Special thanks to Talia Ringer and the folks at SIGPLAN-M for sharing their
 experience establishing a long-term mentoring program.
 
 
