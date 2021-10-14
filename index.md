@@ -51,7 +51,7 @@ To accommodate more time zones, the event will have two sessions:
     * **Session 2:**  
 	  Talia Ringer, Adrian Sampson, Gururaj Saileshwar, and Mengjia Yan
     * Moderator: Sihang Liu
-  * Q&A (10 min, answer questions from the audience)
+  * Q&A (10 min) *answer questions from the audienc*
 
 # Panelists
 
