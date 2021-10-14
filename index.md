@@ -223,10 +223,24 @@ mentoring program in computer architecture.
 
 <hr><br>
 
-<!-- <div class="bio">
+<div class="bio">
+
 <img class="headshot" src="/assets/img/yan.jpg" alt="Mengjia Yan's Potrait"/> 
-<b>Mengjia Yan</b> | Assistant Professor, MIT<br>
-</div> -->
+<a href="https://people.csail.mit.edu/mengjia/">Mengjia Yan | Assistant Professor, MIT</a>
+Mengjia Yan is an assistant professor at MIT's Electrical Engineering
+and Computer Science Department (MIT EECS) and a member of the
+Computer Science and Artificial Intelligence Laboratory (CSAIL). Her
+research interest lies in the areas of computer architecture and
+security, with a focus on side-channel attacks and defenses. Her group
+works on exploiting new micro-architectural vulnerabilities and
+designing comprehensive and efficient defense mechanisms.<br>
+
+<br>Past mentorship experience:<br>
+<ul> 
+<li>Co-organize Young Architect Workshop in 2021 (YArch)</li>
+<li>Participate in Meet-a-senior-architect as a mentor and also as a mentee when she was a graduate student</li>
+</ul>
+</div>
 
 <hr>
 <br>
