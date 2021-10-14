@@ -44,14 +44,14 @@ To accommodate more time zones, the event will have two sessions:
   * **Session 1:** Oct 20, 2021 (Wednesday) 4:15-5:15 PM ET ([Zoom RSVP Link](https://tamu.zoom.us/meeting/register/tJcrc-CrrDwrE9W5iFc9cAh3C15r_nH5C8n1))
   * **Session 2:** Oct 22, 2021 (Friday) 9:00-10:00 AM ET ([Zoom RSVP Link](https://tamu.zoom.us/meeting/register/tJIpceispzkiE9fgJMIoXA0G-hsThijqdH7m))
 * **Agenda** *(same for each session)*:
-  * Introduction to CALM: Emily Ruppel
-  * Panel *(panelists ordered by last name)*
+  * Introduction to CALM: Emily Ruppel (10 min)
+  * Panel (40 min) *panelists ordered by last name*
     * **Session 1:**  
 	  Alexandros Daglis, Lena Olson, Muhammad Shahbaz, Akshitha Sriraman, and Steven Swanson
     * **Session 2:**  
 	  Talia Ringer, Adrian Sampson, Gururaj Saileshwar, and Mengjia Yan
     * Moderator: Sihang Liu
-  * Q&A (questions from the audience)
+  * Q&A (10 min, answer questions from the audience)
 
 # Panelists
 
