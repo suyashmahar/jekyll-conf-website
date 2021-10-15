@@ -139,11 +139,22 @@ program, YArch workshop, and JOBS workshop.
 <hr>
 <br>
 
-<!-- <div class="bio">
+<div class="bio">
 <img class="headshot" src="/assets/img/swanson.jpg" alt="Steven Swanson's Potrait"/> 
-<b>Steven Swanson</b> | Professor, UC San Diego<br>
+<a href="https://swanson.ucsd.edu/">Steven Swanson | Professor, UC San Diego</a><br>
 
-</div> -->
+Steven Swanson is a professor in the Department of Computer Science
+and Engineering at the University of California, San Diego and the
+director of the Non-volatile Systems Laboratory.  His research
+interests include the systems, architecture, security, and reliability
+issues surrounding heterogeneous memory/storage systems, especially
+those that incorporate non-volatile, solid-state memories.  He has
+received an NSF CAREER Award, Google Faculty Awards, a Facebook
+Faculty Award, and been a NetApp Faculty Fellow.  He is a co-founder
+of the Non-Volatile Memories Workshop.  He’s also the creator of
+<a href="http://mycsphd.org/">mycsphd.org</a>, a website devoted to providing good information
+about getting a Ph.D. in Computer Science.  
+</div>
 
 <br>
 
