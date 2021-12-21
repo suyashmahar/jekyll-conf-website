@@ -20,9 +20,6 @@
         {% seo %}
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
   </head>
   <body>
     <div class="wrapper">
@@ -31,8 +28,6 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
 
 	<hr>
         <h2 class="join-title">Join us</h2>
@@ -56,11 +51,12 @@
 	<!-- <hr> -->
 	<div class="nav-bar-content">
 	  <p>
-	    <div class="nav-item" onclick="window.location='/index.html';">Home</div>
+	    <div class="nav-item" onclick="window.location='{{ append: '/index.html' | relativeurl }}';">[Home]</div>
             {% assign sortedNavPages = site.pages | sort:"order" %}
             {% for page in sortedNavPages %}
             {% if page.categories contains "navigation" %}
-	    <div class="nav-item" onclick="window.location='/pages/{{ page.title | downcase | replace: ' ', '-'}}.html';">{{ page.title }}</div>
+            {% assign pageUrl = '/pages/' | append: page.title | downcase | replace: ' ','-' | relative_url | append: '.html' %}
+	    <div class="nav-item" onclick="window.location='{{ pageUrl }}';">{{ page.title }}</div>
             {% endif %}
             {% endfor %}
 	  </p>
@@ -74,11 +70,6 @@
 	{{ content }}
 
       </section>
-      <!-- <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-      </footer> -->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script>
