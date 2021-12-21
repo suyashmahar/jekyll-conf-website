@@ -51,7 +51,8 @@
 	<!-- <hr> -->
 	<div class="nav-bar-content">
 	  <p>
-	    <div class="nav-item" onclick="window.location='{{ append: '/index.html' | relativeurl }}';">[Home]</div>
+            {% assign homeUrl = '/index.html' | relative_url %}
+	    <div class="nav-item" onclick="window.location='{{ homeUrl }}';">Home</div>
             {% assign sortedNavPages = site.pages | sort:"order" %}
             {% for page in sortedNavPages %}
             {% if page.categories contains "navigation" %}
