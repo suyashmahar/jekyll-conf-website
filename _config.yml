@@ -3,3 +3,6 @@ logo: /assets/img/logo.jpg
 description:
 show_downloads: false
 theme: jekyll-theme-minimal
+
+include:
+  - pages

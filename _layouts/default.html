@@ -26,26 +26,13 @@
   </head>
   <body>
     <div class="wrapper">
-      <div class="navigation-bar">
-	<hr>
-	<div class="navigation-bar-content">
-	  <p>
-	    <a href="#computer-architecture-long-term-mentoring">CALM</a> | <a href="#calm-kickoff-event">Kickoff Event</a> | <a href="#participation">Participation</a> | <a href="#calm-committee">Committee</a> | <a href="#acknowledgements">Acknowledgement</a> <!--  -->
-	  </p>
-	</div>
-	<hr>
-      </div>
       <header>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <!-- {% if site.github.is_project_page %} -->
-        <!-- <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p> -->
-        <!-- {% endif %} -->
+        <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
 
 	<hr>
         <h2 class="join-title">Join us</h2>
@@ -64,6 +51,23 @@
 
       </header>
 
+
+      <div class="nav-bar" id="navbar">
+	<!-- <hr> -->
+	<div class="nav-bar-content">
+	  <p>
+	    <div class="nav-item" onclick="window.location='/index.html';">Home</div>
+            {% assign sortedNavPages = site.pages | sort:"order" %}
+            {% for page in sortedNavPages %}
+            {% if page.categories contains "navigation" %}
+	    <div class="nav-item" onclick="window.location='/pages/{{ page.title | downcase | replace: ' ', '-'}}.html';">{{ page.title }}</div>
+            {% endif %}
+            {% endfor %}
+	  </p>
+	</div>
+	<!-- <hr> -->
+      </div>
+      
       <section>
 
 
@@ -77,5 +81,25 @@
       </footer> -->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      // When the user scrolls the page, execute myFunction
+      window.onscroll = function() {myFunction()};
+
+      // Get the navbar
+      var navbar = document.getElementById("navbar");
+
+      // Get the offset position of the navbar
+      var sticky = navbar.offsetTop;
+
+      // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+      function myFunction() {
+          console.log("myFunction called");
+          if (window.pageYOffset >= sticky) {
+              navbar.classList.add("sticky")
+          } else {
+              navbar.classList.remove("sticky");
+          }
+      }
+    </script>
   </body>
 </html>

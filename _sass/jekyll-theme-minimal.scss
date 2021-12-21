@@ -2,13 +2,51 @@
 @import "rouge-github";
 
 
-.navigation-bar {
-  padding-left: 20%;
+.nav-bar {
+  margin-left: 20%;
   font-size: 1.5em;
+  background: #fff;
+  overflow: hidden;
+  z-index: 100;
+  width: 85%;
+  border-bottom: 3px solid black;
+  // box-shadow: 0 5px 10px #ddd;
+  margin-bottom: 2%;
 }
 
-.navigation-bar-content {
-	padding-left: 2%;
+.sticky {
+  position: fixed;
+  top: 0;
+  transform: translateX(-16%);
+  // padding-left: 12%;
+  width: 51%;
+  padding-top: 2%;
+}
+
+.nav-item {
+    font-size: 1.2em;
+    margin-left: 0%;
+    // color: white;
+    // background: #4470ad;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+    height: 1em;
+    float: left;
+    z-index: 140;
+    cursor: pointer;
+}
+
+.nav-item:hover {
+    background: #F5F5F5;
+}
+
+.nav-bar-content {
+    padding-left: 2%;
+    background: #fff;
+    margin-bottom: 4%;
+    padding-bottom: 2%;
 }
 
 body {
@@ -32,7 +70,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  z-index: 1;
+  z-index: 110;
 }
 
 section {
