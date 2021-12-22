@@ -36,7 +36,7 @@ To accommodate more time zones, the event will have two sessions:
 ### Session 1
 
 <div class="bio">
-<img class="headshot" src="/assets/img/daglis.png" alt="Alexandros Daglis's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/daglis.png' | relative_url }}" alt="Alexandros Daglis's Potrait"/> 
 
 <a href="https://www.cc.gatech.edu/~adaglis3/">Alexandros Daglis | Assistant Professor, Georgia Tech</a><br>
 
@@ -54,7 +54,7 @@ and the Young Architect (YArch) workshop in 2020 and 2021.
 <br>
 
 <div class="bio">
-<img class="headshot" src="/assets/img/olson.jpg" alt="Lena Olson's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/olson.jpg' | relative_url }}" alt="Lena Olson's Potrait"/> 
 <a href="https://www.linkedin.com/in/lena-olson-26477b91">Lena Olson | Software Engineer, Google</a><br>
 Lena Olson works at Google on SNAP, a userspace networking stack. She
 received a PhD in 2016 from the University of Wisconsin-Madison, where
@@ -74,7 +74,7 @@ elsewhere.
 <br>
 
 <div class="bio">
-<img class="headshot" src="/assets/img/shahbaz.jpg" alt="Muhammad Shahbaz's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/shahbaz.jpg' | relative_url }}" alt="Muhammad Shahbaz's Potrait"/> 
 
 <a href="https://www.cs.purdue.edu/people/faculty/mshahbaz">Muhammad Shahbaz | Assistant Professor, Purdue University</a><br>
 Muhammad Shahbaz is a Kevin C. and Suzanne L. Kahn New Frontiers Assistant Professor in Computer Science at Purdue University. His research focuses on the design and development of domain-specific abstractions, compilers, and architectures for emerging workloads (including machine learning and self-driving networks). Shahbaz received his Ph.D. and M.A. in Computer Science from Princeton University and B.E. in Computer Engineering from the National University of Sciences and Technology (NUST). Before joining Purdue, Shahbaz worked as a postdoc at Stanford University and a Research Assistant at Georgia Tech and the University of Cambridge. Shahbaz has built open-source systems, including Pisces, SDX, and NetFPGA-10G, that are widely used in industry and academia. He received the Facebook Research Award, ACM SOSR Systems Award, APNet Best Paper Award, Internet2 Innovation Award, and Outstanding Graduate Teaching Assistant Award. Moreover, Shahbaz has mentored several graduate students both within the US and overseas, including Stanford University, LUMS, and NUST. As a postdoc, he has also mentored undergraduate students under Stanford’s CURIS research program.
@@ -84,7 +84,7 @@ Muhammad Shahbaz is a Kevin C. and Suzanne L. Kahn New Frontiers Assistant Profe
 <br>
 
 <div class="bio">
-<img class="headshot" src="/assets/img/sriraman.jpg" alt="Akshitha Sriraman's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/sriraman.jpg' | relative_url }}" alt="Akshitha Sriraman's Potrait"/> 
 
 <a href="https://akshithasriraman.eecs.umich.edu">Akshitha Sriraman | Visiting Researcher, Google.</a><br>
 Assistant Professor, Carnegie Mellon University (2022)<br>
@@ -116,7 +116,7 @@ program, YArch workshop, and JOBS workshop.
 <br>
 
 <div class="bio">
-<img class="headshot" src="/assets/img/swanson.jpg" alt="Steven Swanson's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/swanson.jpg' | relative_url }}" alt="Steven Swanson's Potrait"/> 
 <a href="https://swanson.ucsd.edu/">Steven Swanson | Professor, UC San Diego</a><br>
 
 Steven Swanson is a professor in the Department of Computer Science
@@ -138,7 +138,7 @@ about getting a Ph.D. in Computer Science.
 
 ## Session 2
 <div class="bio">
-<img class="headshot" src="/assets/img/ringer.jpeg" alt="Talia Ringer's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/ringer.jpeg' | relative_url }}" alt="Talia Ringer's Potrait"/> 
 <a href="https://cs.illinois.edu/about/people/department-faculty/tringer">Talia Ringer | Assistant Professor, University of Illinois at Urbana-Champaign</a><br>
 
 Talia Ringer is an Assistant Professor at the University of Illinois
@@ -156,7 +156,7 @@ mentoring experience, and continues to mentor through SIGPLAN-M.
 
 <div class="bio">
 
-<img class="headshot" src="/assets/img/sampson.png" alt="Adrian Sampson's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/sampson.png' | relative_url }}" alt="Adrian Sampson's Potrait"/> 
 <a href="https://www.cs.cornell.edu/~asampson/">Adrian Sampson | Assistant Professor, Cornell University</a><br>
 
 Adrian Sampson is an assistant professor in the computer science
@@ -178,7 +178,7 @@ YArch’s program committee three times.
 
 <div class="bio">
 
-<img class="headshot" src="/assets/img/saileshwar.jpg" alt="Gururaj Saileshwar's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/saileshwar.jpg' | relative_url }}" alt="Gururaj Saileshwar's Potrait"/> 
 <a href="https://sites.google.com/site/gururajshome/home">Gururaj Saileshwar | Ph.D. Student, Georgia Tech</a><br>
 
 Gururaj Saileshwar is a graduating Ph.D. student at Georgia Tech,
@@ -197,7 +197,7 @@ mentoring program in computer architecture.
 
 <div class="bio">
 
-<img class="headshot" src="/assets/img/yan.jpg" alt="Mengjia Yan's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/yan.jpg' | relative_url }}" alt="Mengjia Yan's Potrait"/> 
 <a href="https://people.csail.mit.edu/mengjia/">Mengjia Yan | Assistant Professor, MIT</a>
 Mengjia Yan is an assistant professor at MIT's Electrical Engineering
 and Computer Science Department (MIT EECS) and a member of the
@@ -220,7 +220,7 @@ designing comprehensive and efficient defense mechanisms.<br>
 ## Introductory Speaker
 
 <div class="bio">
-<img class="headshot" src="/assets/img/ruppel.jpg" alt="Emily Ruppel's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/ruppel.jpg' | relative_url }}" alt="Emily Ruppel's Potrait"/> 
 <a href="https://users.ece.cmu.edu/~eruppel/">Emily Ruppel | Ph.D. Student, Carnegie Mellon University</a><br>
 
 Emily Ruppel is a final-year Ph.D. student at Carnegie Mellon University advised
@@ -237,7 +237,7 @@ environment.  She is currently serving as co-chair of the CALM committee
 ## Moderator
 
 <div class="bio">
-<img class="headshot" src="/assets/img/liu.png" alt="Sihang Liu's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/liu.png' | relative_url }}" alt="Sihang Liu's Potrait"/> 
 <a href="https://www.sihangliu.com/">Sihang Liu | Ph.D. Student, University of Virginia</a><br>
 
 Sihang Liu is a final-year Ph.D. student at the University of

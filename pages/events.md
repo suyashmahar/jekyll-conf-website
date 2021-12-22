@@ -35,7 +35,7 @@ order: 9
 <ol>
 
     {% for page in sortedUpcoming %}
-    <li> {{ page.when-happened-epoch }} |  <a href="{{page.url}}">{{ page.title }}</a></li>
+    <li> {{ page.when-happened }} |  <a href="{{page.url}}">{{ page.title }}</a></li>
     {% endfor %}
 </ol>
 
@@ -57,7 +57,7 @@ To be announced...
 <ol>
 
     {% for page in sortedPastEvents %}
-    <li> {{ page.when-happened-epoch }} |  <a href="{{page.url}}">{{ page.title }}</a></li>
+    <li> {{ page.when-happened }} |  <a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
     {% endfor %}
 </ol>
 {% endif %}
