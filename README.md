@@ -4,6 +4,43 @@ theme](http://pages-themes.github.io/minimal).
 
 ## Usage
 
+### Creating a banner
+Write the text for the banner between the following tags:  
+```yml
+{% include start-banner.html %}
+
+<!-- Banner text here -->
+
+{% include end-banner.html %}
+```
+
+**Note:** Text inside a banner needs to be formatted using HTML (e.g., `<a
+href="">...</a>` for links.)  
+
+### Creating a new event
+Jekyll automatically collects events from the `pages/events` directory and
+organizes them into future, past and current events.
+
+To create a new event, create a new markdown file under `pages/events` with the
+following content:
+
+```yml
+---
+title: Event's title
+layout: default
+categories: past-event
+when-happened: Some date here
+when-happened-epoch: 1640075647 <!-- UNIX epoch, used for sorting -->
+---
+
+<!-- Markdown content for the event here -->
+```
+
+Each event should have only one of the following `categories` tag:  
+1. `past-event`: Listed under "Past Event"  
+2. `cur-event`: Listed under "Current Events"  
+3. `future-event`: Listed under "Upcoming Events"  
+
 ### Creating new tab page (navigation item)
 1. Create a new markdown file in `pages/` directory that starts with the
    following content:
