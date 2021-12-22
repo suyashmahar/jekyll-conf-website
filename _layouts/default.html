@@ -45,10 +45,11 @@
         <div style="margin-bottom: 50px;"></div>
 
       </header>
+      
+      <section>
 
 
-      <div class="nav-bar" id="navbar">
-	<!-- <hr> -->
+      <nav class="nav-bar" id="navbar">
 	<div class="nav-bar-content">
 	  <p>
             {% assign homeUrl = '/index.html' | relative_url %}
@@ -60,36 +61,29 @@
 	    <div class="nav-item" onclick="window.location='{{ pageUrl }}';">{{ page.title }}</div>
             {% endif %}
             {% endfor %}
+            <a href="javascript:void(0);" class="nav-item nav-hamburger" onclick="navBarHamToggle()">
+              <i class="fa fa-bars"></i>
+            </a>
 	  </p>
 	</div>
-	<!-- <hr> -->
-      </div>
-      
-      <section>
+      </nav>
 
-
+      <div class="content">
 	{{ content }}
-
+      </div>
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script>
-      // When the user scrolls the page, execute myFunction
-      window.onscroll = function() {myFunction()};
+      let navItems = document.getElementsByClassName("nav-item");
 
-      // Get the navbar
-      var navbar = document.getElementById("navbar");
-
-      // Get the offset position of the navbar
-      var sticky = navbar.offsetTop;
-
-      // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
-      function myFunction() {
-          console.log("myFunction called");
-          if (window.pageYOffset >= sticky) {
-              navbar.classList.add("sticky")
-          } else {
-              navbar.classList.remove("sticky");
+      function navBarHamToggle() {
+          for (var i = 0; i < navItems.length-1; i++) {
+              if (navItems[i].className == "nav-item") {
+                  navItems[i].className += " nav-item-small-scr";
+              } else {
+                  navItems[i].className = "nav-item";
+              }
           }
       }
     </script>
