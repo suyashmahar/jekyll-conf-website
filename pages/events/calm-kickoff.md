@@ -2,7 +2,7 @@
 title: (Archived) CALM Kickoff
 layout: default
 categories: past-event
-when-happened: Some date here
+when-happened: Oct 20-22, 2021
 when-happened-epoch: 1640075647 <!-- UNIX epoch, used for sorting -->
 ---
 

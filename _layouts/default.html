@@ -51,20 +51,38 @@
 
       <nav class="nav-bar" id="navbar">
 	<div class="nav-bar-content">
-	  <p>
+            {% assign pageUrlWithBase = baseurl | append: page.url | relative_url %}
             {% assign homeUrl = '/index.html' | relative_url %}
-	    <div class="nav-item" onclick="window.location='{{ homeUrl }}';">Home</div>
+            {% assign relativeUrl = '/' | relative_url %}
+
+            {% assign navItemClasses = 'nav-item' %}
+            {% if relativeUrl == pageUrlWithBase %}
+              {% assign navItemClasses = navItemClasses | append: ' nav-item-cur' %}
+            {% endif %}
+
+	    <div class="{{ navItemClasses }}" onclick="window.location='{{ homeUrl }}';">
+              Home
+            </div>
+
             {% assign sortedNavPages = site.pages | sort:"order" %}
-            {% for page in sortedNavPages %}
-            {% if page.categories contains "navigation" %}
-            {% assign pageUrl = '/pages/' | append: page.title | downcase | replace: ' ','-' | relative_url | append: '.html' %}
-	    <div class="nav-item" onclick="window.location='{{ pageUrl }}';">{{ page.title }}</div>
+            {% for navPage in sortedNavPages %}
+            {% if navPage.categories contains "navigation" %}
+            {% assign navPageUrl = '/pages/' | append: navPage.title | downcase | replace: ' ','-' | relative_url | append: '.html' %}
+            {% assign navItemClasses = 'nav-item' %}
+
+            {% if pageUrlWithBase == navPageUrl %}
+              {% assign navItemClasses = navItemClasses | append: ' nav-item-cur' %}
+            {% endif %}
+            
+	    <div class="{{ navItemClasses }}" onclick="window.location='{{ navPageUrl }}';">
+              {{ navPage.title }}
+            </div>
             {% endif %}
             {% endfor %}
             <a href="javascript:void(0);" class="nav-item nav-hamburger" onclick="navBarHamToggle()">
+              {{ site.title }}&nbsp;
               <i class="fa fa-bars"></i>
             </a>
-	  </p>
 	</div>
       </nav>
 
@@ -79,10 +97,10 @@
 
       function navBarHamToggle() {
           for (var i = 0; i < navItems.length-1; i++) {
-              if (navItems[i].className == "nav-item") {
+              if (!navItems[i].className.includes("nav-item-small-scr")) {
                   navItems[i].className += " nav-item-small-scr";
               } else {
-                  navItems[i].className = "nav-item";
+                  navItems[i].className = navItems[i].className.replace('nav-item-small-scr', '');
               }
           }
       }
