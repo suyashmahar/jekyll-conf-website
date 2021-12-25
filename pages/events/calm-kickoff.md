@@ -4,6 +4,7 @@ layout: default
 categories: past-event
 when-happened: Oct 20-22, 2021
 when-happened-epoch: 1640075647 <!-- UNIX epoch, used for sorting -->
+preview-img: assets/img/calm-kickoff/yt_thumbnail.jpg
 ---
 
 ### CALM Kickoff Event
@@ -17,8 +18,11 @@ questions about the program, so please submit any questions here.
 To accommodate more time zones, the event will have two sessions:
 
 * **When**:
-  * **Session 1:** Oct 20, 2021 (Wednesday) 4:15-5:15 PM ET ([Zoom RSVP Link](https://tamu.zoom.us/meeting/register/tJcrc-CrrDwrE9W5iFc9cAh3C15r_nH5C8n1))
-  * **Session 2:** Oct 22, 2021 (Friday) 9:00-10:00 AM ET ([Zoom RSVP Link](https://tamu.zoom.us/meeting/register/tJIpceispzkiE9fgJMIoXA0G-hsThijqdH7m))
+  * **Session 1:** Oct 20, 2021 (Wednesday) 4:15-5:15 PM ET ([Watch it on YouTube](https://www.youtube.com/watch?v=j5dCWp3EfOM))  
+    <p><iframe class="event-yt-embed" src="https://www.youtube.com/embed/j5dCWp3EfOM"></iframe></p>
+
+  * **Session 2:** Oct 22, 2021 (Friday) 9:00-10:00 AM ET ([Watch it on YouTube](https://www.youtube.com/watch?v=tZpVSjEtCwc))
+    <p><iframe class="event-yt-embed" src="https://www.youtube.com/embed/tZpVSjEtCwc"></iframe></p>
 * **Agenda** *(same for each session)*:
   * Introduction to CALM: Emily Ruppel (10 min)
   * Panel (40 min) *panelists ordered by last name*

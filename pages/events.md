@@ -57,7 +57,13 @@ To be announced...
 <ol>
 
     {% for page in sortedPastEvents %}
-    <li> {{ page.when-happened }} |  <a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+    <li class="event-header"> 
+        {{ page.when-happened }} |  <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+        <br>
+        <a href="{{ page.url | relative_url }}">
+          <img class="event-thumbnail-img" src="{{ page.preview-img | relative_url }}" alt="{{page.title}} thumbnail image">
+        </a>
+    </li>
     {% endfor %}
 </ol>
 {% endif %}
