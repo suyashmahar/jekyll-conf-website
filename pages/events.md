@@ -59,10 +59,12 @@ To be announced...
     {% for page in sortedPastEvents %}
     <li class="event-header"> 
         {{ page.when-happened }} |  <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+        {% if page.preview-img != nil %}
         <br>
         <a href="{{ page.url | relative_url }}">
           <img class="event-thumbnail-img" src="{{ page.preview-img | relative_url }}" alt="{{page.title}} thumbnail image">
         </a>
+        {% endif %}
     </li>
     {% endfor %}
 </ol>

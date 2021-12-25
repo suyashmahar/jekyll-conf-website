@@ -31,6 +31,7 @@ layout: default
 categories: past-event
 when-happened: Some date here
 when-happened-epoch: 1640075647 <!-- UNIX epoch, used for sorting -->
+preview-img: assets/img/calm-kickoff/yt_thumbnail.jpg <!-- Preview image for events page listing -->
 ---
 
 <!-- Markdown content for the event here -->
