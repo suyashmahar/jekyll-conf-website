@@ -26,23 +26,16 @@
       <header>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <div class="header-div">
+          <div class="header-logo">
+            <img src="{{ site.logo | relative_url }}" alt="Logo" />
+          </div>
+          <div class="header-text">
+            {{ site.title }}
+          </div>
+        </div>
         {% endif %}
 
-	<hr>
-        <h2 class="join-title">Join us</h2>
-
-        <div class="join-gallery">
-            {% for medium in site.data.social %}
-            {% if medium.active == true %}
-            <a href="{{ medium.link }}" title="{{ medium.name }}">
-                <i class="fa fa-3x {{ medium.icon }}" style="color: #{{ medium.color}};"></i>
-            </a>
-            {% endif %}
-            {% endfor %}
-        </div>
-
-        <div style="margin-bottom: 50px;"></div>
 
       </header>
       
@@ -88,6 +81,20 @@
 
       <div class="content">
 	{{ content }}
+      </div>
+
+      <div class="footer">
+        <hr>
+        <h2 class="join-title">Keep in touch with {{ site.title }}!</h2>
+        <div class="join-gallery">
+          {% for medium in site.data.social %}
+          {% if medium.active == true %}
+          <a href="{{ medium.link }}" title="{{ medium.name }}">
+            <i class="fa fa-2x {{ medium.icon }}" style="color: #{{ medium.color}};"></i>
+          </a>
+          {% endif %}
+          {% endfor %}
+        </div>
       </div>
       </section>
     </div>

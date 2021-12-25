@@ -1,6 +1,11 @@
 @import "fonts";
 @import "rouge-github";
 
+.header-div {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5em;
+}
 
 .nav-bar {
   font-size: 1.5em;
@@ -57,7 +62,6 @@
 .nav-bar-content {
     padding-left: 0%;
     background: #fff;
-    padding-top: 0.5em;
 }
 
 .event-header {
@@ -122,6 +126,10 @@ section {
   margin-right: 0%;
   margin-left: 0%;
   text-align: justify !important;
+}
+
+.join-title {
+  font-size: 0.8em !important;
 }
 
 h1 {
@@ -319,6 +327,10 @@ footer {
     float: none;
   }
 
+  .header-text {
+    display: none;
+  }
+
   .nav-bar {
     display: block;
     width: auto;
@@ -363,7 +375,6 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
@@ -373,10 +384,26 @@ footer {
     display:inline;
   }
 
+  .header-logo {
+    width: 30%;
+    margin: auto;
+  }
+
+  .header-text {
+    display: none;
+  }
+  
   header ul {
     position:absolute;
     right:50px;
     top:52px;
+  }
+
+  .nav-bar {
+    box-shadow: none;
+    border-style: solid;
+    border-width: 0 0 1px 0;
+    border-color: #000;
   }
 }
 
