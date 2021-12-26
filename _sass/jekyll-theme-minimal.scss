@@ -74,7 +74,9 @@
 
 .event-yt-embed {
   width: 420px;
-  height: 237px;
+  // height: 237px;
+  max-width: 90%;
+  aspect-ratio: 16/9;
 }
 
 .announcement {
