@@ -64,6 +64,33 @@
     background: #fff;
 }
 
+.member-profiles-grid {
+  overflow: hidden;
+}
+
+.member-profile {
+  float: left;
+  overflow: hidden;
+  margin: 1em;
+  text-align: center;
+  width: 200px;
+  display: inline-block;
+  justify-content: center;
+}
+
+.member-photo {
+  width: 180px;
+  display: inline-block;
+}
+
+.member-name {
+  font-size: 1.5em;
+  width: 100%;
+  justify-content: center;
+  height: 4em;
+  word-break: break-word;
+}
+
 .event-header {
   font-size: 1.2em;
 }
@@ -74,7 +101,6 @@
 
 .event-yt-embed {
   width: 420px;
-  // height: 237px;
   max-width: 90%;
   aspect-ratio: 16/9;
 }

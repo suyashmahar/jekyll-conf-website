@@ -1,20 +1,57 @@
-- name: Aviral Goel
-  photo: /assets/img/aviral.jpg
-  website: http://aviral.io/
+# Committee members here
+- name: Elba Garza
+  photo: /assets/img/egarza.jpg
+  website: 
   active: true
+  category: committee-member
 
-- name: Rachit Nigam
-  photo: /assets/img/rachit.jpg
-  website: https://rachitnigam.com/
+- name: Udit Gupta
+  photo: /assets/img/ugupta.jpg
+  website: 
   active: true
+  category: committee-member
 
-- name: Paulette Koronkevich
-  photo: /assets/img/paulette.jpg
-  website: https://koronkevi.ch/
+- name: Yueying Li
+  photo: /assets/img/yli.jpg
+  website: 
   active: true
+  category: committee-member
 
-- name: Lucy Menon
-  photo: /assets/img/lucy.jpg
-  website:
-  active: false
+- name: Suyash Mahar
+  photo: /assets/img/smahar.jpg
+  website: 
+  active: true
+  category: committee-member
+
+- name: Abdulrahman Mahmoud
+  photo: /assets/img/amahmoud.jpg
+  website: 
+  active: true
+  category: committee-member
+
+- name: Gururaj Saileshwar
+  photo: /assets/img/gsaileshwar.jpg
+  website: 
+  active: true
+  category: committee-member
+
+- name: Annus Zulfiqar
+  photo: /assets/img/azulfiqar.jpg
+  website: 
+  active: true
+  category: committee-member
+  
+# Co-Chairs here
+- name: Sihang Liu
+  photo: /assets/img/liu.png
+  website: 
+  active: true
+  category: co-chairs
+
+- name: Emily Ruppel
+  photo: /assets/img/ruppel.jpg
+  website: 
+  active: true
+  category: co-chairs
+  
 

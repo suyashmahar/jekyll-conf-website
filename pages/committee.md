@@ -7,9 +7,31 @@ order: 4
 
 # CALM Committee
 
-* **Committee members**: [Elba Garza](http://www.elbagarza.com/), [Udit Gupta](https://ugupta.com/), [Yueying Li](https://www.linkedin.com/in/%E6%82%A6%E9%A2%96-%E6%9D%8E-144479131/en), [Suyash Mahar](https://suyashmahar.com), [Abdulrahman Mahmoud](https://ma3mool.github.io/), [Gururaj Saileshwar](https://sites.google.com/site/gururajshome/home), and [Annus Zulfiqar](https://pk.linkedin.com/in/annuszulfiqar)
-* **Co-chairs**: [Sihang Liu](https://www.sihangliu.com/) and [Emily Ruppel](https://users.ece.cmu.edu/~eruppel/)
+<h3>Committee Members</h3>
+<div class="member-profiles-grid">
+{% for mem in site.data.members %}
+{% if mem.category == 'committee-member' and mem.active %}
+<div class="member-profile">
+<img class="member-photo" src="{{ mem.photo | relative_url }}"/>
+<a class="member-name" href="{{mem.website}}">{{ mem.name }}</a>
+</div>
+{% endif %}
+{% endfor %}
+</div>
 
+<h3>Chairs</h3>
+<div class="member-profiles-grid">
+{% for mem in site.data.members %}
+{% if mem.category == 'co-chairs' and mem.active %}
+<div class="member-profile">
+<img class="member-photo" src="{{ mem.photo | relative_url }}"/>
+<a class="member-name" href="{{mem.website}}">{{ mem.name }}</a>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
+<h3>Join us!</h3>
 
 We are currently seeking CALM Committee members to help with the day-to-day
 tasks of running a successful long-term mentoring program.  If you can commit
