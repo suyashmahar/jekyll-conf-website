@@ -111,6 +111,7 @@
   color: red;
   font-size: 1.5em;
   border: 4px dashed black;
+  text-align: left;
 }
 
 .announcement a:link {
@@ -182,6 +183,10 @@ h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
+}
+
+ol, ul {
+  text-align: left;
 }
 
 
