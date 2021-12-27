@@ -19,10 +19,14 @@ To accommodate more time zones, the event will have two sessions:
 
 * **When**:
   * **Session 1:** Oct 20, 2021 (Wednesday) 4:15-5:15 PM ET ([Watch it on YouTube](https://www.youtube.com/watch?v=j5dCWp3EfOM))  
-    <p><iframe class="event-yt-embed" src="https://www.youtube.com/embed/j5dCWp3EfOM"></iframe></p>
+    {% include start-embedded-yt.html %}
+    https://www.youtube.com/embed/j5dCWp3EfOM
+    {% include end-embedded-yt.html %}
 
   * **Session 2:** Oct 22, 2021 (Friday) 9:00-10:00 AM ET ([Watch it on YouTube](https://www.youtube.com/watch?v=tZpVSjEtCwc))
-    <p><iframe class="event-yt-embed" src="https://www.youtube.com/embed/tZpVSjEtCwc"></iframe></p>
+    {% include start-embedded-yt.html %}
+    https://www.youtube.com/embed/tZpVSjEtCwc
+    {% include end-embedded-yt.html %}
 * **Agenda** *(same for each session)*:
   * Introduction to CALM: Emily Ruppel (10 min)
   * Panel (40 min) *panelists ordered by last name*

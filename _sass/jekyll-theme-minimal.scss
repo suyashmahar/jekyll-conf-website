@@ -99,10 +99,17 @@
   width: 80%;
 }
 
+.iframe-wrapper {
+  background:url(../images/loader.gif) center center no-repeat;
+}
+
 .event-yt-embed {
   width: 420px;
   max-width: 90%;
   aspect-ratio: 16/9;
+  border: 0;
+  background: url("../img/loader.svg");
+  background-repeat: no-repeat;
 }
 
 .announcement {

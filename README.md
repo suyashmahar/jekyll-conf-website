@@ -17,6 +17,16 @@ Write the text for the banner between the following tags:
 **Note:** Text inside a banner needs to be formatted using HTML (e.g., `<a
 href="">...</a>` for links.)  
 
+### Creating an embedded YouTube Player
+
+Create an embedded YT player with width 420px and 16:9 aspect ratio using the following tags:  
+
+```yml
+{% include start-embedded-yt.html %}
+https://www.youtube.com/embed/j5dCWp3EfOM
+{% include end-embedded-yt.html %}
+```
+
 ### Creating a new event
 Jekyll automatically collects events from the `pages/events` directory and
 organizes them into future, past and current events.
