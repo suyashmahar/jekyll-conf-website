@@ -4,8 +4,8 @@ layout: default
 
 {% include start-banner.html %}
 
-📢 We are looking for mentors! Checkout the page on <a
-href="{{ 'pages/participate.html' | relative_url }}">participating in CALM</a>.
+📢 We are looking for mentors! Checkout <a href="{{ 'pages/participate.html' |
+relative_url }}">participating in CALM</a>.
 
 {% include end-banner.html %}
 

@@ -106,12 +106,22 @@
 }
 
 .announcement {
+  background: #fffbf0;
+  padding: 1em;
   color: red;
   font-size: 1.5em;
+  border: 4px dashed black;
 }
 
 .announcement a:link {
   color: red;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+}
+
+.announcement a:visited {
+  color: #860000;
   font-weight: bold;
   text-decoration: underline;
   text-decoration-style: dashed;
