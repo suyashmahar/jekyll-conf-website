@@ -40,7 +40,7 @@ cohort of mentees by the beginning of 2022 before scaling up the program.
 
 # CALM Committee
 
-* **Committee members**: [Elba Garza](http://www.elbagarza.com/), [Udit Gupta](https://ugupta.com/), [Yueying Li](https://www.linkedin.com/in/%E6%82%A6%E9%A2%96-%E6%9D%8E-144479131/en), [Suyash Mahar](https://suyashmahar.com), [Abdulrahman Mahmoud](https://ma3mool.github.io/), [Gururaj Saileshwar](https://sites.google.com/site/gururajshome/home), and [Annus Zulfiqar](https://pk.linkedin.com/in/annuszulfiqar)
+* **Committee members**: [Elba Garza](http://www.elbagarza.com/), [Udit Gupta](https://ugupta.com/), [Yueying Li](https://www.linkedin.com/in/%E6%82%A6%E9%A2%96-%E6%9D%8E-144479131/en), [Suyash Mahar](https://suyashmahar.com), [Abdulrahman Mahmoud](https://ma3mool.github.io/), [Gururaj Saileshwar](https://gururaj-s.github.io/), and [Annus Zulfiqar](https://pk.linkedin.com/in/annuszulfiqar)
 * **Co-chairs**: [Sihang Liu](https://www.sihangliu.com/) and [Emily Ruppel](https://users.ece.cmu.edu/~eruppel/)
 
 
