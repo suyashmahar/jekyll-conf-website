@@ -15,7 +15,9 @@ order: 4
 {% if mem.category == 'committee-member' and mem.active %}
 <a href="{{mem.website}}">
 <div class="member-profile">
+<div class="member-photo-container">
 <img class="member-photo" src="{{ mem.photo | relative_url }}"/>
+</div>
 <div class="member-name">{{ mem.name }}</div>
 </div>
 </a>

@@ -88,12 +88,22 @@
   justify-content: center;
 }
 
+.member-photo-container {
+  text-align: center;
+}
+
 .member-photo {
   width: 180px;
   height: 200px;
   object-fit: cover;
-  display: inline-block;
+  display: inline;
   border-radius: 50%;
+  background: url('http://127.0.0.1:4000/lla/assets/img/logo.jpg');
+  z-index: 0;
+}
+
+.member-profile:hover .member-photo {
+  filter: brightness(70%);
 }
 
 .member-name {
@@ -406,6 +416,15 @@ footer {
     width: 99%;
     text-align: right;
   }
+   
+  .member-profile {
+    float: none;
+  }
+
+  .member-profiles-grid {
+    text-align: center;
+  }
+
 }
 
 @media print, screen and (max-width: 960px) {
