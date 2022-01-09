@@ -226,7 +226,6 @@ h2, h3 {
 }
 
 h1 {
-  font-size:38px;
   line-height: 1.5;
 }
 
@@ -488,7 +487,17 @@ footer {
 
 @media print, screen and (max-width: 720px) {
   body {
-    word-wrap:break-word;
+    word-wrap:break-word;  
+  }
+
+  p, ul, ol, table, pre, dl, .bio {
+    font-size: 0.8em;
+  }
+
+  h2
+
+  .announcement {
+    padding: 0.5em;
   }
 
   header {
