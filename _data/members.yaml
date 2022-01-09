@@ -1,55 +1,55 @@
 # Committee members here
 - name: Elba Garza
-  photo: /assets/img/egarza.jpg
+  photo: /assets/img/committee-membs/egarza.png
   website: 
   active: true
   category: committee-member
 
 - name: Udit Gupta
-  photo: /assets/img/ugupta.jpg
+  photo: /assets/img/committee-membs/ugupta.png
   website: 
   active: true
   category: committee-member
 
 - name: Yueying Li
-  photo: /assets/img/yli.jpg
+  photo: /assets/img/committee-membs/yli.png
   website: 
   active: true
   category: committee-member
 
 - name: Suyash Mahar
-  photo: /assets/img/smahar.jpg
+  photo: /assets/img/committee-membs/smahar.jpg
   website: 
   active: true
   category: committee-member
 
 - name: Abdulrahman Mahmoud
-  photo: /assets/img/amahmoud.jpg
+  photo: /assets/img/committee-membs/amahmoud.png
   website: 
   active: true
   category: committee-member
 
 - name: Gururaj Saileshwar
-  photo: /assets/img/gsaileshwar.jpg
+  photo: /assets/img/committee-membs/gsaileshwar.png
   website: 
   active: true
   category: committee-member
 
 - name: Annus Zulfiqar
-  photo: /assets/img/azulfiqar.jpg
+  photo: /assets/img/committee-membs/azulfiqar.png
   website: 
   active: true
   category: committee-member
   
 # Co-Chairs here
 - name: Sihang Liu
-  photo: /assets/img/liu.png
+  photo: /assets/img/committee-membs/sliu.png
   website: 
   active: true
   category: co-chairs
 
 - name: Emily Ruppel
-  photo: /assets/img/ruppel.jpg
+  photo: /assets/img/committee-membs/eruppel.jpg
   website: 
   active: true
   category: co-chairs
