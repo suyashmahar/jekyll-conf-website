@@ -62,12 +62,15 @@
             {% if navPage.categories contains "navigation" %}
             {% assign navPageUrl = '/pages/' | append: navPage.title | downcase | replace: ' ','-' | relative_url | append: '.html' %}
             {% assign navItemClasses = 'nav-item' %}
-
+            {% assign onClick = '' %}
+            
             {% if pageUrlWithBase == navPageUrl %}
               {% assign navItemClasses = navItemClasses | append: ' nav-item-cur' %}
+            {% else %}
+              {% assign onClick = "window.location='" | append: navPageUrl | append: "';" %}
             {% endif %}
             
-	    <div class="{{ navItemClasses }}" onclick="window.location='{{ navPageUrl }}';">
+	    <div class="{{ navItemClasses }}" onclick="{{ onClick }}">
               {{ navPage.title }}
             </div>
             {% endif %}

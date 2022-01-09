@@ -1,5 +1,6 @@
 @import "fonts";
 @import "rouge-github";
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
 
 .header-div {
   width: 100%;
@@ -47,16 +48,25 @@
     float: left;
     z-index: 140;
     cursor: pointer;
+    border-bottom: #00000000 solid 5px;
 }
 
 .nav-item-cur {
-    background: #555;
-    color: white;
+    background: #f1f1f1;
+    color: black;
+    cursor: default;
+    border-bottom: #2274a5 solid 5px;
+
+}
+
+.nav-item-cur:hover {
+    border-bottom: #2274a5 solid 5px !important;
 }
 
 .nav-item:hover {
     background: #f1f1f1;
-    color: black
+    color: black;
+    border-bottom: black solid 5px;
 }
 
 .nav-bar-content {
@@ -83,14 +93,16 @@
   height: 200px;
   object-fit: cover;
   display: inline-block;
+  border-radius: 50%;
 }
 
 .member-name {
-  font-size: 1.5em;
+  font-size: 1.2em;
   width: 100%;
   justify-content: center;
   height: 4em;
   word-break: break-word;
+  font-family: 'Roboto Black', sans-serif;
 }
 
 .event-header {
