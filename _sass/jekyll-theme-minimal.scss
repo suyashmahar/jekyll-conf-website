@@ -19,6 +19,7 @@
   overflow: hidden;
   position: -webkit-sticky;
   position: sticky;
+    // border-bottom: #2274a5 solid 5px;
   box-shadow: 0 8px 6px -6px black;
 }
 
@@ -48,7 +49,7 @@
     float: left;
     z-index: 140;
     cursor: pointer;
-    border-bottom: #00000000 solid 5px;
+    // border-bottom: gray solid 5px;
 }
 
 .nav-item-cur {
@@ -66,7 +67,7 @@
 .nav-item:hover {
     background: #f1f1f1;
     color: black;
-    border-bottom: black solid 5px;
+    border-bottom: #54b4eb solid 5px;
 }
 
 .nav-bar-content {
@@ -121,6 +122,13 @@
 
 .event-thumbnail-img {
   width: 80%;
+}
+
+.embedded-form {
+  background: url("../img/loader.svg");
+  background-size: 200px 200px;
+  background-repeat: no-repeat;
+  background-position: center; /* Center the image */
 }
 
 .iframe-wrapper {
