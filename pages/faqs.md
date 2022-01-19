@@ -53,13 +53,13 @@ We welcome mentors from different backgrounds, including (but not limited to) fa
 2. **As a mentor, what amount of load should I expect?**  
 During sign-up, we let mentors select the desired meeting frequency, such as once a month, once every two months, or quarterly. We expect each meeting to be half an hour to one hour. Even though this program is long-term, we expect a minimum load from the mentor’s side in each meeting. 
 
-3. **I am a Mentor. What I can do to best support my mentee?**  
+3. **What I can do to best support my mentee?**  
 We will encourage your mentee to proactively reach out to you, schedule meetings, and lead the discussions. We would appreciate it if you can answer mentees’ questions, including both research questions and non-technical questions for personal development. Please also note that the research track is not intended to let the mentee work as a research intern or volunteer for the mentor. 
 
-4. **I am a mentor. I found my mentee is not responding. What should I do?**  
+4. **I found my mentee is not responding. What should I do?**  
 If you find your mentee is not responding after several emails. You may reach out to us. We are here to help maintain this mentoring relationship. If you have any other concerns or issues regarding this mentorship, do not hesitate to reach out to us. 
 
-5. **I am a mentor. I found I can no longer support my mentees (or cannot support all the current mentees). What should I do?**  
+5. **I found I can no longer support my mentees (or cannot support all the current mentees). What should I do?**  
 We totally understand that you may have limited effort. We encourage you to reach out to your mentee first and let them know that you have limited availability (or other reasons). Then, please let us know so that we can keep track of the mentoring status. 
 
 6. **Do I need to list my mentee as potential conflicts of interest (e.g., paper review)?**  
@@ -115,7 +115,7 @@ the mentoring status.
 Please reach out to us if this happens. We will help with communication and try
 to match you with another mentor.
 
-9. **I am a mentee who signed up for this program but has not been matched with a mentor yet. What should I expect next?**  
+9. **I signed up for this program but has not been matched with a mentor yet. What should I expect next?**  
 The CALM committee matches mentees with mentors according to their
 preferences. If you have not been matched, it does not mean we forget about you!
 You will be placed on a waitlist. We are always checking the list to see if any
