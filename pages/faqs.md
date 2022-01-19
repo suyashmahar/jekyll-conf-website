@@ -60,7 +60,7 @@ We will encourage your mentee to proactively reach out to you, schedule meetings
 If you find your mentee is not responding after several emails. You may reach out to us. We are here to help maintain this mentoring relationship. If you have any other concerns or issues regarding this mentorship, do not hesitate to reach out to us. 
 
 5. **I found I can no longer support my mentees (or cannot support all the current mentees). What should I do?**  
-We totally understand that you may have limited effort. We encourage you to reach out to your mentee first and let them know that you have limited availability (or other reasons). Then, please let us know so that we can keep track of the mentoring status. 
+We totally understand that you may have limited time. We encourage you to reach out to your mentee first and let them know that you have limited availability (or other reasons). Then, please let us know so that we can keep track of the mentoring status. 
 
 6. **Do I need to list my mentee as potential conflicts of interest (e.g., paper review)?**  
 We encourage the mentor and mentee to reach an agreement on whether or not to mark each other as potential conflicts of interest. Conflicts of interest highly depend on the scenarios and interactions between the mentor/mentee. Please refer to the specific guidelines outlined by the conference/journal/funding body/etc.  
@@ -115,9 +115,9 @@ the mentoring status.
 Please reach out to us if this happens. We will help with communication and try
 to match you with another mentor.
 
-9. **I signed up for this program but has not been matched with a mentor yet. What should I expect next?**  
+9. **I signed up for this program but have not been matched with a mentor yet. What should I expect next?**  
 The CALM committee matches mentees with mentors according to their
-preferences. If you have not been matched, it does not mean we forget about you!
+preferences. If you have not been matched, it does not mean we forgot about you!
 You will be placed on a waitlist. We are always checking the list to see if any
 new mentor signups could be a good match.
 
