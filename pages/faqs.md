@@ -32,11 +32,11 @@ duration (typically four major conferences in our community).
 4. **How is the signup information managed?**  
 CALM takes special care to manage and protect personal information of both the
 mentors and the mentees. Only the CALM committee has access to any information
-collected. If you have specific concerns, feel free to contact the [co-chairs]({{ 'pages/contact-us.html' | relative_url }}).
+collected. If you have specific concerns, feel free to contact the [co-chairs]({{ 'pages/committee.html' | relative_url }}).
 
 5. **I am interested in contributing to the committee of CALM. How can I join?**  
 We always welcome new committee members. If you are interested, please reach out
-to the [co-chairs]({{ 'pages/contact-us.html' | relative_url }}).
+to the [co-chairs]({{ 'pages/committee.html' | relative_url }}).
 
 ## Starting the Mentorship
 1. **How can I signup as a mentor or mentee?**  
