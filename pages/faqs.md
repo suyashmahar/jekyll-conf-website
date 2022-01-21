@@ -112,7 +112,7 @@ Yes, you are welcome to do so! For example, a senior Ph.D. student can be a ment
 
 <details>
 <summary>I found I can no longer support my mentees (or cannot support all the current mentees). What should I do?</summary>
-<p>We totally understand that you may have limited effort. We encourage you to reach out to your mentee first and let them know that you have limited availability (or other reasons). Then, please let us know so that we can keep track of the mentoring status. </p>
+<p>We totally understand that you may have limited time. We encourage you to reach out to your mentee first and let them know that you have limited availability (or other reasons). Then, please let us know so that we can keep track of the mentoring status. </p>
 </details>
 
 <details>
@@ -203,11 +203,10 @@ to match you with another mentor.
 </p>
 </details>
 
-<details>
-<summary>I signed up for this program but has not been matched with a mentor yet. What should I expect next?</summary>
-<p>
-The CALM committee matches mentees with mentors according to their
-preferences. If you have not been matched, it does not mean we forget about you!
+
+<summary>I signed up for this program but have not been matched with a mentor yet. What should I expect next?</summary>
+<p>The CALM committee matches mentees with mentors according to their
+preferences. If you have not been matched, it does not mean we forgot about you!
 You will be placed on a waitlist. We are always checking the list to see if any
 new mentor signups could be a good match.
 </p>
