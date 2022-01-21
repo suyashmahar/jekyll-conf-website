@@ -203,7 +203,7 @@ to match you with another mentor.
 </p>
 </details>
 
-
+<details>
 <summary>I signed up for this program but have not been matched with a mentor yet. What should I expect next?</summary>
 <p>The CALM committee matches mentees with mentors according to their
 preferences. If you have not been matched, it does not mean we forgot about you!
