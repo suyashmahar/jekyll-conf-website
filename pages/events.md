@@ -10,7 +10,7 @@ order: 9
     assign sortedCurrentEvents = site.pages 
     | sort:"when-happened-epoch" 
     | reverse 
-    | where_exp: "item", "item.categories contains 'upcoming-event'" 
+    | where_exp: "item", "item.categories contains 'cur-event'" 
 %}
 
 {% if sortedCurrentEvents.size > 0 %}
@@ -28,7 +28,7 @@ order: 9
     assign sortedUpcoming = site.pages 
     | sort:"when-happened-epoch" 
     | reverse 
-    | where_exp: "item", "item.categories contains 'upcoming-event'" 
+    | where_exp: "item", "item.categories contains 'future-event'" 
 %}
 
 {% if sortedUpcoming.size > 0 %}
