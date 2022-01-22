@@ -7,14 +7,20 @@ order: 4
 
 # CALM Committee
 
+<!-- NOTE: This page is automatically generated from _data/members.yml -->
+
 <h3>Committee Members</h3>
 <div class="member-profiles-grid">
 {% for mem in site.data.members %}
 {% if mem.category == 'committee-member' and mem.active %}
+<a href="{{mem.website}}">
 <div class="member-profile">
+<div class="member-photo-container">
 <img class="member-photo" src="{{ mem.photo | relative_url }}"/>
-<a class="member-name" href="{{mem.website}}">{{ mem.name }}</a>
 </div>
+<div class="member-name">{{ mem.name }}</div>
+</div>
+</a>
 {% endif %}
 {% endfor %}
 </div>
@@ -23,10 +29,12 @@ order: 4
 <div class="member-profiles-grid">
 {% for mem in site.data.members %}
 {% if mem.category == 'co-chairs' and mem.active %}
+<a href="{{mem.website}}">
 <div class="member-profile">
 <img class="member-photo" src="{{ mem.photo | relative_url }}"/>
-<a class="member-name" href="{{mem.website}}">{{ mem.name }}</a>
+<div class="member-name">{{ mem.name }}</div>
 </div>
+</a>
 {% endif %}
 {% endfor %}
 </div>

@@ -1,56 +1,56 @@
 # Committee members here
 - name: Elba Garza
-  photo: /assets/img/egarza.jpg
-  website: 
+  photo: /assets/img/committee-membs/egarza.png
+  website: http://www.elbagarza.com/
   active: true
   category: committee-member
 
 - name: Udit Gupta
-  photo: /assets/img/ugupta.jpg
-  website: 
+  photo: /assets/img/committee-membs/ugupta.png
+  website: https://ugupta.com/
   active: true
   category: committee-member
 
 - name: Yueying Li
-  photo: /assets/img/yli.jpg
-  website: 
+  photo: /assets/img/committee-membs/yli.png
+  website: https://www.linkedin.com/in/%E6%82%A6%E9%A2%96-%E6%9D%8E-144479131/
   active: true
   category: committee-member
 
 - name: Suyash Mahar
-  photo: /assets/img/smahar.jpg
-  website: 
+  photo: /assets/img/committee-membs/smahar.jpg
+  website: https://suyashmahar.com/
   active: true
   category: committee-member
 
 - name: Abdulrahman Mahmoud
-  photo: /assets/img/amahmoud.jpg
-  website: 
+  photo: /assets/img/committee-membs/amahmoud.png
+  website: https://ma3mool.github.io/
   active: true
   category: committee-member
 
 - name: Gururaj Saileshwar
-  photo: /assets/img/gsaileshwar.jpg
-  website: 
+  photo: /assets/img/committee-membs/gsaileshwar.png
+  website: https://gururaj-s.github.io/
   active: true
   category: committee-member
 
 - name: Annus Zulfiqar
-  photo: /assets/img/azulfiqar.jpg
-  website: 
+  photo: /assets/img/committee-membs/azulfiqar.jpg
+  website: https://annuszulfiqar2021.github.io/
   active: true
   category: committee-member
   
 # Co-Chairs here
 - name: Sihang Liu
-  photo: /assets/img/liu.png
-  website: 
+  photo: /assets/img/committee-membs/sliu.png
+  website: https://www.sihangliu.com/
   active: true
   category: co-chairs
 
 - name: Emily Ruppel
-  photo: /assets/img/ruppel.jpg
-  website: 
+  photo: /assets/img/committee-membs/eruppel.jpg
+  website: https://users.ece.cmu.edu/~eruppel/
   active: true
   category: co-chairs
   
