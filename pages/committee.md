@@ -25,6 +25,12 @@ order: 4
 {% endfor %}
 </div>
 
+{% assign chairs = site.data.members
+    | where_exp: "item", "item.category contains 'chair'"
+    | where_exp: "item", "item.active"
+%}
+
+{% if chairs.size > 0 %}
 <h3>Chairs</h3>
 <div class="member-profiles-grid">
 {% for mem in site.data.members %}
@@ -38,6 +44,7 @@ order: 4
 {% endif %}
 {% endfor %}
 </div>
+{% endif %}
 
 <h3>Join us!</h3>
 
