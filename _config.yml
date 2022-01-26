@@ -1,6 +1,8 @@
 title: CompArch Mentoring
 
 logo: /assets/img/logo.jpg
+title-below-logo: true
+
 description:
 show_downloads: false
 theme: jekyll-theme-minimal
@@ -9,5 +11,5 @@ include:
   - pages
 
 colors:
-  theme: 2274a5
+  theme: t2274a5
   theme-light: 54b4eb

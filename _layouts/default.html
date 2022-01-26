@@ -30,9 +30,12 @@
           <div class="header-logo">
             <img src="{{ site.logo | relative_url }}" alt="Logo" />
           </div>
+
+          {% if site.title-below-logo %}
           <div class="header-text">
             {{ site.title }}
           </div>
+          {% endif %}
         </div>
         {% endif %}
 
