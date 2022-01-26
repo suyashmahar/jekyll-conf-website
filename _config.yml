@@ -13,3 +13,4 @@ include:
 colors:
   theme: 2274a5
   theme-light: 54b4eb
+  theme-dark: 069
