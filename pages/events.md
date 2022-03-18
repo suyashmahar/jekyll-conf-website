@@ -35,7 +35,13 @@ order: 9
 <ol>
 
     {% for page in sortedUpcoming %}
-    <li> {{ page.when-happened }} |  <a href="{{page.url}}">{{ page.title }}</a></li>
+    <li> {{ page.when-happened }} |  <a href="{{page.url}}">{{ page.title }}</a></li>        
+    {% if page.preview-img != nil %}
+        <br>
+        <a href="{{ page.url | relative_url }}">
+          <img class="event-thumbnail-img" src="{{ page.preview-img | relative_url }}" alt="{{page.title}} thumbnail image">
+        </a>
+        {% endif %}
     {% endfor %}
 </ol>
 
