@@ -1,5 +1,5 @@
 var map = {
-    'panel-may-2022': 'events/getting-started-with-systems-research.html'
+    'panel-may-2022': 'pages/events/getting-started-with-systems-research.html'
 }
 
 
@@ -10,10 +10,12 @@ function getDestination(cur) {
 
 function main() {
     var cur = document.location.search;
-    console.log(cur)
     var dst = getDestination(cur);
-    console.log(dst)
-    window.location.href = map[dst];
+
+    if (dst) {
+        console.log(dst)
+        window.location.href = map[dst];
+    }
 }
 
 main();
