@@ -17,6 +17,11 @@ Write the text for the banner between the following tags:
 **Note:** Text inside a banner needs to be formatted using HTML (e.g., `<a
 href="">...</a>` for links.)  
 
+Shows up as:  
+
+> <img src="https://user-images.githubusercontent.com/21097167/159853465-b8340b35-818a-491e-979e-facc8cfe91a3.png" style="height: 80px;">
+
+
 ### Creating multi timezone event link
 Create a new `<div></div>` element with the unix timestamps:
 
@@ -29,6 +34,10 @@ Fields:
 2. `data-duration`: Event length in seconds  
 3. `data-show-timezone-link`: Bool to toggle dataandtime.com link  
 
+Shows up as:  
+
+> <img src="https://user-images.githubusercontent.com/21097167/159853047-1bce2b3c-9cec-44e5-895f-c28eb32039e0.png" style="height: 40px;">
+
 
 ### Creating an embedded YouTube Player
 
@@ -39,6 +48,16 @@ Create an embedded YT player with width 420px and 16:9 aspect ratio using the fo
 https://www.youtube.com/embed/j5dCWp3EfOM
 {% include end-embedded-yt.html %}
 ```
+
+Shows up as (when loading):  
+
+> <img src="https://user-images.githubusercontent.com/21097167/159853581-eb052a09-1f02-4e5f-82c9-7ac90786823d.png" style="height: 90px;">
+
+Shows up as (when loaded):
+
+> <img src="https://user-images.githubusercontent.com/21097167/159853619-651d624f-7399-409f-8b5b-950553c54316.png" style="height: 90px;">
+
+
 
 ### Creating a new event
 Jekyll automatically collects events from the `pages/events` directory and
