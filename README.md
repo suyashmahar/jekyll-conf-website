@@ -17,6 +17,19 @@ Write the text for the banner between the following tags:
 **Note:** Text inside a banner needs to be formatted using HTML (e.g., `<a
 href="">...</a>` for links.)  
 
+### Creating multi timezone event link
+Create a new `<div></div>` element with the unix timestamps:
+
+```html
+<div class="time-fmt-local" data-start="1652374800" data-duration="3600" data-show-timezone-link="true"></div>
+```
+
+Fields:
+1. `data-start`: UNIX timestamp when the event starts  
+2. `data-duration`: Event length in seconds  
+3. `data-show-timezone-link`: Bool to toggle dataandtime.com link  
+
+
 ### Creating an embedded YouTube Player
 
 Create an embedded YT player with width 420px and 16:9 aspect ratio using the following tags:  
