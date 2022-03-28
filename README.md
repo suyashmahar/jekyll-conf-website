@@ -1,3 +1,4 @@
+Checkout the demo here: [suyashmahar.com/jekyll-conf-website](https://suyashmahar.com/jekyll-conf-website/)
 # Simple Conf Website
 Jekyll template for creating simple conference websites. Based on [Minimal
 theme](http://pages-themes.github.io/minimal).
