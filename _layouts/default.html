@@ -28,7 +28,9 @@
         {% if site.logo %}
         <div class="header-div">
           <div class="header-logo">
-            <img src="{{ site.logo | relative_url }}" alt="Logo" />
+            <a href="{{'/' | relative_url }}">
+              <img src="{{ site.logo | relative_url }}" alt="Logo" />
+            </a>
           </div>
 
           {% if site.title-below-logo %}
