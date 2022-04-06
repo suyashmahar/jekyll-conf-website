@@ -472,6 +472,17 @@ footer {
 }
 
 @media print, screen and (max-width: 1600px) {
+  .nav-item-cur {
+    background: #{{ site.colors.theme }};
+    color: white;
+    cursor: default;
+  }
+
+  .nav-item-hover :hover {
+    background: #{{ site.colors.theme }} !important;
+    color: white;    
+  }
+
   .nav-item-small-scr {
     display: block !important;
     float: none;
@@ -503,7 +514,7 @@ footer {
 
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 960px) {  
   .header-div {
     padding: 0;
   }
